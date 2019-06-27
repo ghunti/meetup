@@ -53,4 +53,5 @@ Caso a tua proposta tenha sido aceite, alguém da organização entrará em cont
 ---
 
 Obrigado,
+
 _A equipa Laravel Portugal_
