@@ -6,7 +6,6 @@
 ---
 
 # TALK_TITLE
----
 
 * Nome: (teu nome)
 * Empresa: (nome da tua empresa, se aplicável)
