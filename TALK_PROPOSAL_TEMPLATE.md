@@ -23,9 +23,9 @@
 
 ### Links
 
-* Site: {https://whereiwrite.com — optional, delete line if not applicable }}
-* Empresa: {https://whereiwork.com — optional, delete line if not applicable }}
-* GitHub: {https://github.com/my-github-username - must have applied for Pixels Camp attendance }}
+* Site: (o teu site, blogue, LinkedIn, se aplicável)
+* Empresa: (o nome e site da tua empresa, se aplicável)
+* GitHub: (o teu endereço GitHub)
 
 ### Informação extra
 
