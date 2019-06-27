@@ -16,7 +16,7 @@ Mais informações no site [meetup](https://www.meetup.com/pt-BR/Laravel-Portuga
 
 Este repositório tem a única função de receber todas as propostas de apresentações de oradores interessados em participar na próxima edição do Meetup.
 
-Detalhes da 1ª Edição:
+Detalhes da **1ª Edição**:
 - Data de abertura do CFP: `01/07/2019`
 - Data de fecho do CFP: `31/07/2019`
 - Data limite de resposta às candidaturas: `18/08/2019`
