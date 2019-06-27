@@ -21,6 +21,7 @@ Detalhes da **1ª Edição**:
 - Data de fecho do CFP: `31/07/2019`
 - Data limite de resposta às candidaturas: `18/08/2019`
 - Data do evento: `07/09/2019`
+- Local do evento: (a definir), Porto
 
 Temas de interesse para o evento:
 - Desenvolvimento Web com foco em Laravel;
