@@ -44,7 +44,7 @@ Esta lista não deve ser tratada como exclusiva. Estamos receptivos a propostas 
 
 Antes de mais, obrigado pela tua submissão! Vamos analisar a tua proposta e informar-te-emos da nossa decisão, seja ela positiva ou negativa. Mesmo que a tua submissão seja rejeitada para esta edição, não significa que não possa ser re-submetida para uma próxima edição. Por isso, não desanimes se receberes uma resposta negativa!
 
-Caso a tua proposta tenha sido aceite, alguém da organização entrará em contacto contigo pelo contacto que forneceste na proposta, de forma a podermos agilizar todo o processo até à tua chegada no recinto onde o evento se vai realizar. Se precisares de falar com alguém da organização, podes fazê-lo no nosso servidor [Discord](https://discord.gg/px7DFDb), no canal `#eventos`.
+Caso a tua proposta tenha sido aceite, alguém da organização entrará em contacto contigo pelo contacto que forneceste na proposta, de forma a podermos agilizar todo o processo até à tua chegada no recinto onde o evento se vai realizar. Se precisares de falar com alguém da organização, podes fazê-lo no nosso servidor [Discord](https://discord.gg/px7DFDb), no canal `#events`.
 
 ### Outras informações úteis
 
